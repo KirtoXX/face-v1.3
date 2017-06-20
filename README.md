@@ -19,6 +19,9 @@ https://pan.baidu.com/s/1pKQvn3H
 4. weight目录下存储网络权重，可以更换，但是网络结构不可更换
 5.用法 cd到该目录下，将图片存放到image/目录下 命令行下输入 python predict.py xxx.jpg 最后一行输出得分
 
+服务器版本：
+实现了两种版本的，一种FLASK的，一种基于socket的，FLask的最完善
+
 线上模型：
 1.cd到工程文件下
 2.python Flask_serving.py --ip=127.0.0.1 --port=9999  //根据需求更改
