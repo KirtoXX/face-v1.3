@@ -24,4 +24,4 @@ https://pan.baidu.com/s/1pKQvn3H
 2.python Flask_serving.py --ip=127.0.0.1 --port=9999  //根据需求更改
 3.Android 客户端实现访问 
 3.1 Android 客户端地址 http://pan.baidu.com/s/1pKXMJY7 
-3.2 修改java/myapi 下的host
+3.2 修改java/myapi 下的host -.- 用Android stdio 打开
