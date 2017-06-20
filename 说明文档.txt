@@ -3,6 +3,7 @@
 
 权重文件地址：
 https://pan.baidu.com/s/1pKQvn3H
+存放地址：weight/
 
 本地用法：
 1.用于预测的人脸图片存储在 image/目录下
@@ -13,6 +14,6 @@ https://pan.baidu.com/s/1pKQvn3H
 
 线上模型：
 1.cd到工程文件下
-2.python Flask_serving.py --ip:127.0.0.1 port:9999  //根据需求更改
+2.python Flask_serving.py --ip=127.0.0.1 --port=9999  //根据需求更改
 3.Android 客户端实现访问  
 
