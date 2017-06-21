@@ -29,6 +29,6 @@ https://pan.baidu.com/s/1pKQvn3H
 3.1 Android 客户端地址 http://pan.baidu.com/s/1pKXMJY7   
 3.2 修改java/myapi 下的host -.- 用Android stdio 打开  
 
-//-------------更新用----------------  
+//-------------更新用----------------      
 1.支持png图片  
 2.精度提升至94%  
