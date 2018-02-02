@@ -26,7 +26,8 @@ python Flask_serving.py --ip=<your_ip>  --port=<80> <p>
 
 ### 2.fix the Android client
 1 Download the Android client，url：<p>
-2.Open the Android client by Android stdio,ix the <host> on java/ljw/myapi(make sure keep same with Flask_serving)   <p>
+2.Open the Android client by Android stdio,fix the host on java/ljw/myapi  <p>
+    (make sure keep same with Flask_serving)   <p>
 3.Install the Android client on your Smart Phone,enjoy it!<p>
 ![](https://github.com/KirtoXX/face-v1.3/blob/master/reference/client.png)
   
@@ -37,8 +38,8 @@ The module saved on haarcascades/ and haarcascades_cuda/.<p>
 The face detection API implement by OpenCV 3.
   
 ### 2.Rating module：
-1.The Deep neural network was trained on SCUT Face Data.<p>
- finaly accuracy：97.2% <p> 
- url of data：www.hcii-lab.net/data/SCUT-FBP/CN/introduce.html <p>
-2.Architecture of CNNs(vgg): <p>
+(1).The Deep neural network was trained on SCUT Face Data.<p>
+  finaly accuracy：97.2% <p> 
+  url of data：www.hcii-lab.net/data/SCUT-FBP/CN/introduce.html <p>
+(2).Architecture of CNNs(vgg): <p>
 
