@@ -42,4 +42,5 @@ The face detection API implement by OpenCV 3.
   finaly accuracy：97.2% <p> 
   url of data：www.hcii-lab.net/data/SCUT-FBP/CN/introduce.html <p>
 (2).Architecture of CNNs(vgg): <p>
+  ![](https://github.com/KirtoXX/face-v1.3/blob/master/reference/1709146-203d21703e0c7ac9.png)<p>
 
