@@ -25,7 +25,7 @@ url of weight: https://pan.baidu.com/s/1pKQvn3H, copy the weight to  ./weight/ <
 python Flask_serving.py --ip=<your_ip>  --port=<80> <p>
 
 ### 2.fix the Android client
-1 Download the Android client，url：<p>
+1 Download the Android client，url：https://pan.baidu.com/s/1nwYacjB<p>
 2.Open the Android client by Android stdio,fix the host on java/ljw/myapi  <p>
     (make sure keep same with Flask_serving)   <p>
 3.Install the Android client on your Smart Phone,enjoy it!<p>
